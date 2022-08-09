@@ -1,2 +1,2 @@
-Hello! I a QuruSelt!   
+Hello! I amQuruSelt!   
 I am learning coding and computer science.
